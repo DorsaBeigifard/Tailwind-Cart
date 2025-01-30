@@ -4,6 +4,9 @@ module.exports = {
   theme: {
     extend: {
       // If you’d like to preserve the default values for a theme option but also add new values
+      fontFamily: {
+        sans: ["Vazirmatn"],
+      },
     },
     container: {
       center: true,
